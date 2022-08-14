@@ -1,0 +1,26 @@
+input{
+    width:150px;
+    height:100px;
+    font-size: 75px;
+    border-radius: 15px;
+    margin:10px;
+    background-color: black;
+    color: whitesmoke;
+    border-style: none;
+}
+#myform{
+    margin-left: 500px;
+    top: 150px;
+}
+body{
+    background-color:navy;
+}
+input:hover{
+    width:160px;
+    height: 110px;
+    font-size: 75px;
+    border-radius: 15px;
+    margin:10px;
+    background-color: black;
+    color: whitesmoke;
+}
